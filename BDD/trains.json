@@ -1,0 +1,8 @@
+[
+	{"from": "Paris-Montparnasse 1-2", "arrival_time": "1009", "leave_in": "45"},
+	{"from": "Lyon Part-Dieu", "arrival_time": "1216", "leave_in": "30"},
+	{"from": "Paris-Gare-de-Lyon", "arrival_time": "1739", "leave_in": "60"},
+	{"from": "lyon-Perrache", "arrival_time": "1905", "leave_in": "45"},
+	{"from": "Bordeaux-St-Jean", "arrival_time": "2004", "leave_in": "60"},
+	{"from": "Rosa-Parks (Paris)", "arrival_time": "2210", "leave_in": "30"}
+]
